@@ -212,6 +212,13 @@
     "nom_complet": "Ressources communes aux deux filières",
     "accroche": "Ressources, méthodologies et outils communs à toutes les formations.",
     "couleur": "sauge",
-    "ressources": []
+    "ressources": [
+      {
+  "titre": "Capsule pedagogique - Histoire du handicap",
+  "type": "lien",
+  "url": "https://campussocialformation.github.io/histoire/",
+  "note": "Capsule interactive"
+}
+    ]
   }
 }
