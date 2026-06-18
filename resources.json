@@ -171,7 +171,12 @@
               "sous_groupes": [
                 { "nom": "Méthodologie écrite", "ressources": [] },
                 { "nom": "Méthodologie orale", "ressources": [] },
-                { "nom": "Fiche de notation orale", "ressources": [] }
+                { "nom": "Fiche de notes orales", "ressources": [{
+  "titre": "Support notes pour l'oral",
+  "type": "pdf",
+  "url": "https://campussocialformation.github.io/ressources/notesoralesbloc4.pdf",
+  "note": "Capsule interactive"
+}] }
               ]
             },
             "contenus_pedagogiques": {
