@@ -155,7 +155,7 @@
   "titre": "Méthodologie dossier écrit bloc 3",
   "type": "doc",
   "url": "https://campussocialformation.github.io/ressources/methodobloc3.doc",
-  "note": "Travail de révision en vue d'aborder l'épreuve Bloc 3 sur table"
+  "note": "Dossier word de la méthodologie"
 }] },
                 { "nom": "Méthodologie orale", "ressources": [] },
                 { "nom": "Fiche de notation orale", "ressources": [] }
@@ -179,7 +179,12 @@
             "epreuve_certificative": {
               "label": "Épreuve certificative",
               "sous_groupes": [
-                { "nom": "Méthodologie écrite", "ressources": [] },
+                { "nom": "Méthodologie écrite", "ressources": [{
+  "titre": "Méthodologie dossier écrit bloc 4",
+  "type": "doc",
+  "url": "https://campussocialformation.github.io/ressources/methodobloc4.doc",
+  "note": "Dossier word de la méthodologie"
+}] },
                 { "nom": "Méthodologie orale", "ressources": [] },
                 { "nom": "Fiche de notes orales", "ressources": [{
   "titre": "Support notes pour l'oral",
