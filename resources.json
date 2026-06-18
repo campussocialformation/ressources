@@ -63,7 +63,12 @@
             "epreuve_certificative": {
               "label": "Épreuve certificative",
               "sous_groupes": [
-                { "nom": "Méthodologie écrite", "ressources": [] },
+                { "nom": "Méthodologie écrite", "ressources": [{
+  "titre": "Méthodologie épreuve sur table bloc 3",
+  "type": "doc",
+  "url": "https://campussocialformation.github.io/ressources/METISFmethodobloc3.doc",
+  "note": "Dossier word de la méthodologie pour épreuve sur table"
+}] },
                 { "nom": "Méthodologie orale", "ressources": [] },
                 { "nom": "Fiche de notation orale", "ressources": [] }
               ]
