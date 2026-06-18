@@ -106,7 +106,12 @@
             },
             "capsules_pedagogiques": {
               "label": "Capsules pédagogiques",
-              "ressources": []
+              "ressources": [    {
+  "titre": "Capsule pedagogique - le recueil des besoins",
+  "type": "lien",
+  "url": "https://campussocialformation.github.io/homework_recueil/",
+  "note": "Capsule interactive"
+}]
             }
           }
         },
@@ -198,7 +203,12 @@
             },
             "capsules_pedagogiques": {
               "label": "Capsules pédagogiques",
-              "ressources": []
+              "ressources": [ {
+  "titre": "Capsule pedagogique - Révisions en vue de l'épreuve Bloc 5",
+  "type": "lien",
+  "url": "https://campussocialformation.github.io/prepabloc5/",
+  "note": "Capsule interactive"
+}]
             }
           }
         }
@@ -217,6 +227,12 @@
   "titre": "Capsule pedagogique - Histoire du handicap",
   "type": "lien",
   "url": "https://campussocialformation.github.io/histoire/",
+  "note": "Capsule interactive"
+},
+      {
+  "titre": "Cartographie des opérateurs du médico-social",
+  "type": "lien",
+  "url": "https://campussocialformation.github.io/cartographie/",
   "note": "Capsule interactive"
 }
     ]
