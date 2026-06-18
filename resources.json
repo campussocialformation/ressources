@@ -74,7 +74,12 @@
             },
             "capsules_pedagogiques": {
               "label": "Capsules pédagogiques",
-              "ressources": []
+              "ressources": [ {
+  "titre": "Capsule pedagogique - Révisions en vue bloc 3",
+  "type": "lien",
+  "url": "https://campussocialformation.github.io/memoMe25/",
+  "note": "Travail de révision en vue d'aborder l'épreuve Bloc 3 sur table"
+}]
             }
           }
         }
