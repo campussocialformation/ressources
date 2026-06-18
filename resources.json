@@ -1,0 +1,217 @@
+{
+  "_lisez_moi": "FICHIER DE DONNEES DU SITE - Voir GUIDE_EDITION.md pour le mode d'emploi complet. Ne pas supprimer les blocs meme vides : laisser 'ressources': [] si rien a afficher pour l'instant.",
+
+  "filieres": [
+    {
+      "id": "me-tisf",
+      "nom": "ME / TISF",
+      "nom_complet": "Moniteur Éducateur / Technicien de l'Intervention Sociale et Familiale",
+      "accroche": "Contribuer à l'accompagnement socio-éducatif dans une logique de parcours.",
+      "couleur": "bleu",
+      "blocs": [
+        {
+          "id": "me-tisf-bloc-1",
+          "numero": 1,
+          "intitule": "Contribuer à l'accompagnement socio-éducatif dans une logique de parcours",
+          "categories": {
+            "epreuve_certificative": {
+              "label": "Épreuve certificative",
+              "sous_groupes": [
+                { "nom": "Méthodologie écrite", "ressources": [] },
+                { "nom": "Méthodologie orale", "ressources": [] },
+                { "nom": "Fiche de notation orale", "ressources": [] }
+              ]
+            },
+            "contenus_pedagogiques": {
+              "label": "Contenus pédagogiques",
+              "ressources": []
+            },
+            "capsules_pedagogiques": {
+              "label": "Capsules pédagogiques",
+              "ressources": []
+            }
+          }
+        },
+        {
+          "id": "me-tisf-bloc-2",
+          "numero": 2,
+          "intitule": "Contribuer au projet éducatif spécialisé dans une visée inclusive",
+          "categories": {
+            "epreuve_certificative": {
+              "label": "Épreuve certificative",
+              "sous_groupes": [
+                { "nom": "Méthodologie écrite", "ressources": [] },
+                { "nom": "Méthodologie orale", "ressources": [] },
+                { "nom": "Fiche de notation orale", "ressources": [] }
+              ]
+            },
+            "contenus_pedagogiques": {
+              "label": "Contenus pédagogiques",
+              "ressources": []
+            },
+            "capsules_pedagogiques": {
+              "label": "Capsules pédagogiques",
+              "ressources": []
+            }
+          }
+        },
+        {
+          "id": "me-tisf-bloc-3",
+          "numero": 3,
+          "intitule": "S'inscrire dans un travail d'équipe et partenarial pour assurer la continuité des accompagnements dans une logique de parcours",
+          "categories": {
+            "epreuve_certificative": {
+              "label": "Épreuve certificative",
+              "sous_groupes": [
+                { "nom": "Méthodologie écrite", "ressources": [] },
+                { "nom": "Méthodologie orale", "ressources": [] },
+                { "nom": "Fiche de notation orale", "ressources": [] }
+              ]
+            },
+            "contenus_pedagogiques": {
+              "label": "Contenus pédagogiques",
+              "ressources": []
+            },
+            "capsules_pedagogiques": {
+              "label": "Capsules pédagogiques",
+              "ressources": []
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "aes",
+      "nom": "AES",
+      "nom_complet": "Accompagnant Éducatif et Social",
+      "accroche": "Acquérir les connaissances et compétences nécessaires en vue de la validation des 5 blocs de compétences.",
+      "couleur": "terre",
+      "blocs": [
+        {
+          "id": "aes-bloc-1",
+          "numero": 1,
+          "intitule": "Accompagnement de la personne dans les actes essentiels de la vie quotidienne",
+          "categories": {
+            "epreuve_certificative": {
+              "label": "Épreuve certificative",
+              "sous_groupes": [
+                { "nom": "Méthodologie écrite", "ressources": [] },
+                { "nom": "Méthodologie orale", "ressources": [] },
+                { "nom": "Fiche de notation orale", "ressources": [] }
+              ]
+            },
+            "contenus_pedagogiques": {
+              "label": "Contenus pédagogiques",
+              "ressources": []
+            },
+            "capsules_pedagogiques": {
+              "label": "Capsules pédagogiques",
+              "ressources": []
+            }
+          }
+        },
+        {
+          "id": "aes-bloc-2",
+          "numero": 2,
+          "intitule": "Accompagnement de la personne dans les actes de la vie quotidienne dans le respect de cette personne et des règles d'hygiène et de sécurité",
+          "categories": {
+            "epreuve_certificative": {
+              "label": "Épreuve certificative",
+              "sous_groupes": [
+                { "nom": "Méthodologie écrite", "ressources": [] },
+                { "nom": "Méthodologie orale", "ressources": [] },
+                { "nom": "Fiche de notation orale", "ressources": [] }
+              ]
+            },
+            "contenus_pedagogiques": {
+              "label": "Contenus pédagogiques",
+              "ressources": []
+            },
+            "capsules_pedagogiques": {
+              "label": "Capsules pédagogiques",
+              "ressources": []
+            }
+          }
+        },
+        {
+          "id": "aes-bloc-3",
+          "numero": 3,
+          "intitule": "Accompagnement à la vie sociale et relationnelle de la personne",
+          "categories": {
+            "epreuve_certificative": {
+              "label": "Épreuve certificative",
+              "sous_groupes": [
+                { "nom": "Méthodologie écrite", "ressources": [] },
+                { "nom": "Méthodologie orale", "ressources": [] },
+                { "nom": "Fiche de notation orale", "ressources": [] }
+              ]
+            },
+            "contenus_pedagogiques": {
+              "label": "Contenus pédagogiques",
+              "ressources": []
+            },
+            "capsules_pedagogiques": {
+              "label": "Capsules pédagogiques",
+              "ressources": []
+            }
+          }
+        },
+        {
+          "id": "aes-bloc-4",
+          "numero": 4,
+          "intitule": "Positionnement en tant que travailleur social dans son contexte d'intervention",
+          "categories": {
+            "epreuve_certificative": {
+              "label": "Épreuve certificative",
+              "sous_groupes": [
+                { "nom": "Méthodologie écrite", "ressources": [] },
+                { "nom": "Méthodologie orale", "ressources": [] },
+                { "nom": "Fiche de notation orale", "ressources": [] }
+              ]
+            },
+            "contenus_pedagogiques": {
+              "label": "Contenus pédagogiques",
+              "ressources": []
+            },
+            "capsules_pedagogiques": {
+              "label": "Capsules pédagogiques",
+              "ressources": []
+            }
+          }
+        },
+        {
+          "id": "aes-bloc-5",
+          "numero": 5,
+          "intitule": "Travail en équipe pluriprofessionnelle, gestion des risques et traitement des informations liées à l'accompagnement de la personne",
+          "categories": {
+            "epreuve_certificative": {
+              "label": "Épreuve certificative",
+              "sous_groupes": [
+                { "nom": "Méthodologie écrite", "ressources": [] },
+                { "nom": "Méthodologie orale", "ressources": [] },
+                { "nom": "Fiche de notation orale", "ressources": [] }
+              ]
+            },
+            "contenus_pedagogiques": {
+              "label": "Contenus pédagogiques",
+              "ressources": []
+            },
+            "capsules_pedagogiques": {
+              "label": "Capsules pédagogiques",
+              "ressources": []
+            }
+          }
+        }
+      ]
+    }
+  ],
+
+  "contenus_transversaux": {
+    "id": "transversal",
+    "nom": "Contenus transversaux",
+    "nom_complet": "Ressources communes aux deux filières",
+    "accroche": "Ressources, méthodologies et outils communs à toutes les formations.",
+    "couleur": "sauge",
+    "ressources": []
+  }
+}
